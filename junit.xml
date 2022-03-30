@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="14" failures="0" errors="0" time="0.816">
+  <testsuite name="calculator.test.js" errors="0" failures="0" skipped="0" timestamp="2022-03-30T08:40:42" time="0.51" tests="13">
+    <testcase classname="calculator check-check divide1" name="calculator check-check divide1" time="0.007">
+    </testcase>
+    <testcase classname="calculator check-check divide2" name="calculator check-check divide2" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check substraction1" name="calculator check-check substraction1" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check substraction2" name="calculator check-check substraction2" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check exponentiation1" name="calculator check-check exponentiation1" time="0">
+    </testcase>
+    <testcase classname="calculator check-check exponentiation2" name="calculator check-check exponentiation2" time="0">
+    </testcase>
+    <testcase classname="calculator check-check exponentiation3" name="calculator check-check exponentiation3" time="0">
+    </testcase>
+    <testcase classname="calculator check-check add1" name="calculator check-check add1" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check add2" name="calculator check-check add2" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check add3" name="calculator check-check add3" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check multiply1" name="calculator check-check multiply1" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check multiply2" name="calculator check-check multiply2" time="0.001">
+    </testcase>
+    <testcase classname="calculator check-check multiply3" name="calculator check-check multiply3" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="sum.test.js" errors="0" failures="0" skipped="0" timestamp="2022-03-30T08:40:43" time="0.132" tests="1">
+    <testcase classname="test sum function-1 + 2 = 3" name="test sum function-1 + 2 = 3" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
